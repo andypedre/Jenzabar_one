@@ -27,3 +27,4 @@ Right-click on it to pin it to your taskbar- ![image](https://github.com/andyped
 
 Left-click on it to open it and log in.
 
+![image](https://github.com/andypedre2016/Jenzabar_one/assets/106565149/2ae4aafa-c8e3-40a6-9a15-3b7fb23c3491)
