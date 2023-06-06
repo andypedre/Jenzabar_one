@@ -1,4 +1,4 @@
-#How to install the J1 Remote App onto your desktop computer.
+# How to install the J1 Remote App onto your desktop computer.
 
 Copy and hold this link - https://jenzabar.fmuniv.edu/RDWeb/Feed/webfeed.aspx
 Open the Control Panel (use the search space at bottom left of your screen to search for Control Panel)
