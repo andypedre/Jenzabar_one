@@ -1,4 +1,6 @@
-##Adding a new user:
+# Adding a new user:
+
+We first want to add the neccessary 
 
 To add links to the home screen, click on the "green plus" botton located at the top of the "Links page".
 
